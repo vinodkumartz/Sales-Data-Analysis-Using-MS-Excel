@@ -5,7 +5,8 @@ Welcome to the **Interactive Sales Dashboard** project! This business analytics 
 ---
 
 ## Dashboard Preview  
-https://github.com/sarthaklambaa/Sales-Dashboard-Excel/blob/main/Dashboard.jpg
+<img width="1844" height="758" alt="image" src="https://github.com/user-attachments/assets/0e908e13-8cae-4f21-9bf3-ae06e2b6b548" />
+
 
 ---
 
